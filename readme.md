@@ -11,7 +11,8 @@ Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
 
-
 License Information
 -------------------
-The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/). 
+The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Distributed as-is; no warranty is given.
